@@ -208,3 +208,150 @@ Last Update
 
 2026-07-24
 Version 0.1.0
+# MASTER.md
+## LCAA - Legal Case & AI Assistant
+
+Version: 0.2.0
+Status: Active Development
+License: Internal
+Language: Persian (Primary) / English (Technical)
+
+---
+
+# 1. PROJECT IDENTITY
+
+## Project Name
+
+LCAA
+
+Legal Case & AI Assistant
+
+---
+
+## Vision
+
+LCAA is designed to become a complete digital legal operating system.
+
+The system is not merely a Progressive Web App (PWA).
+
+The final goal is creating a professional legal platform capable of managing legal cases, documents, evidence, timelines, legal knowledge, AI assistance, and organizational workflows.
+
+---
+
+## Mission
+
+Create a secure, intelligent, offline-capable legal environment for managing legal cases from the first document until the final judgment.
+
+Every document must remain searchable.
+
+Every action must remain documented.
+
+Every decision must remain traceable.
+
+Every change must remain version controlled.
+
+---
+
+# 2. CORE PRINCIPLES
+
+The project follows these permanent principles.
+
+## Principle 1
+
+Documentation before coding.
+
+No major feature shall be implemented before being documented.
+
+---
+
+## Principle 2
+
+Architecture before implementation.
+
+Every module must have a documented architecture.
+
+---
+
+## Principle 3
+
+Security first.
+
+User data is always more important than features.
+
+---
+
+## Principle 4
+
+Offline first.
+
+The system must continue working without Internet whenever possible.
+
+---
+
+## Principle 5
+
+Single source of truth.
+
+MASTER.md is the constitutional document of the project.
+
+All other documents derive from MASTER.md.
+
+---
+
+## Principle 6
+
+No undocumented changes.
+
+Every architectural decision must be documented.
+
+---
+
+## Principle 7
+
+Every version is reproducible.
+
+Any released version should be rebuildable from Git.
+
+---
+
+# 3. PROJECT GOALS
+
+Primary Goals
+
+• Case Management
+
+• Document Management
+
+• Legal Timeline
+
+• AI Assistant
+
+• Search Engine
+
+• Evidence Management
+
+• Secure Storage
+
+• Collaboration
+
+• Reporting
+
+• Archive
+
+Secondary Goals
+
+• OCR
+
+• Voice Transcription
+
+• AI Legal Analysis
+
+• Draft Generation
+
+• Risk Detection
+
+• Smart Search
+
+• Multi-language Support
+
+• Organization Integration
