@@ -3,29 +3,54 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LCAA</title>
 
-  <title>LCAA MVP</title>
-
+  <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <main>
-    <h1>LCAA</h1>
-    <p>نسخه اولیه MVP</p>
+<header>
+  <h1>LCAA</h1>
+  <p>Legal Case AI Assistant</p>
+</header>
 
-    <div id="app">
-      سیستم آماده شروع است.
-    </div>
-  </main>
+<main>
 
-  <script src="app.js"></script>
+<section id="dashboard">
+  <h2>داشبورد</h2>
 
-</body>
-</html>
+  <div class="card">
+    <strong>پرونده‌ها</strong>
+    <span id="caseCount">0</span>
+  </div>
+
+  <div class="card">
+    <strong>اسناد</strong>
+    <span id="documentCount">0</span>
+  </div>
+
+  <div class="card">
+    <strong>وظایف</strong>
+    <span id="taskCount">0</span>
+  </div>
+
+  <button id="newCaseBtn">
+    پرونده جدید
+  </button>
+
+</section>
+
+</main>
+
+<script src="app.js"></script>
+
 <script>
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("./service-worker.js");
 }
 </script>
+
+</body>
+</html>
