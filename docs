@@ -1,1 +1,210 @@
 MASTER.md
+# LCAA MASTER
+## Legal Case AI Assistant
+
+---
+
+# Project Identity
+
+Project Name:
+LCAA
+
+Full Name:
+Legal Case AI Assistant
+
+Project Type:
+Progressive Web App (PWA)
+
+Repository:
+LCAA
+
+Current Version:
+v0.1.0
+
+Status:
+Active Development
+
+---
+
+# Vision
+
+ساخت یک سامانه حقوقی هوشمند که بتواند پرونده‌های حقوقی را مدیریت کند، اسناد را نگهداری کند، تحلیل ارائه دهد و به مرور به یک دستیار حقوقی کامل تبدیل شود.
+
+---
+
+# Core Mission
+
+هدف اصلی پروژه:
+
+- مدیریت پرونده‌های حقوقی
+- مدیریت اسناد
+- مدیریت مکاتبات
+- ثبت تاریخچه اقدامات
+- تحلیل پرونده
+- دستیار هوشمند حقوقی
+
+---
+
+# Special Mission
+
+پرونده حقوقی زنده دیجیتال ملک
+
+این پروژه علاوه بر قابلیت عمومی، به عنوان بستر مدیریت پرونده حقوقی دیجیتال ملک نیز توسعه داده می‌شود.
+
+---
+
+# Current Status
+
+✔ Repository Created
+
+✔ GitHub Pages Active
+
+✔ PWA Created
+
+✔ Dashboard Created
+
+✔ Manifest Ready
+
+✔ Service Worker Ready
+
+✔ Initial Architecture Ready
+
+---
+
+# Development Roadmap
+
+## Phase 1
+Foundation
+
+✔ GitHub
+
+✔ PWA
+
+✔ Dashboard
+
+⬜ New Case Form
+
+⬜ Local Storage
+
+⬜ Case List
+
+---
+
+## Phase 2
+
+Case Management
+
+⬜ Edit Case
+
+⬜ Delete Case
+
+⬜ Search
+
+⬜ Categories
+
+⬜ Timeline
+
+---
+
+## Phase 3
+
+Document Management
+
+⬜ Upload Documents
+
+⬜ Images
+
+⬜ PDF
+
+⬜ Audio
+
+⬜ Video
+
+⬜ Metadata
+
+---
+
+## Phase 4
+
+AI
+
+⬜ Smart Search
+
+⬜ Legal Analysis
+
+⬜ Evidence Linking
+
+⬜ Timeline Analysis
+
+⬜ Suggestions
+
+---
+
+## Phase 5
+
+Production
+
+⬜ Offline Mode
+
+⬜ Backup
+
+⬜ Restore
+
+⬜ Security
+
+⬜ Encryption
+
+⬜ Release v1.0
+
+---
+
+# Project Rules
+
+قبل از هر توسعه:
+
+MASTER بررسی شود.
+
+بعد از هر توسعه:
+
+MASTER بروزرسانی شود.
+
+هر تصمیم مهم:
+
+در MASTER ثبت شود.
+
+---
+
+# Team Workflow
+
+1. برنامه‌ریزی
+
+2. ثبت در MASTER
+
+3. توسعه
+
+4. تست
+
+5. Commit
+
+6. بروزرسانی MASTER
+
+7. انتشار
+
+---
+
+# Current Next Task
+
+ساخت فرم ایجاد پرونده جدید
+
+---
+
+# Long-Term Goal
+
+تبدیل LCAA به یک سامانه کامل مدیریت پرونده‌های حقوقی و دستیار هوشمند حقوقی.
+
+---
+
+Last Update
+
+2026-07-24
+Version 0.1.0
